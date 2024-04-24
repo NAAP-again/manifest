@@ -15,6 +15,10 @@
            fetch="https://github.com/yaap"
            revision="refs/heads/fourteen" />
 
+  <remote  name="cherish-gitlab"
+           fetch="https://gitlab.com/CherishOS-A14"
+           revision="udc" />
+
   <!-- General -->
   <project path="art" name="art" remote="yaap" />
   <project path="bootable/recovery" name="bootable_recovery" remote="yaap" />
@@ -137,6 +141,7 @@
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="naap" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="yaap" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="yaap" />
+  <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" revision="uqpr2" remote="cherish-gitlab" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/calyx/chromium/arm64" name="CalyxOS/platform_prebuilts_calyx_chromium_arm64" remote="gitlab" revision="android13" clone-depth="1" />
