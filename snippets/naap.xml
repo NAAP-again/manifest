@@ -23,7 +23,7 @@
   <project path="art" name="art" remote="yaap" />
   <project path="bootable/recovery" name="bootable_recovery" remote="yaap" />
   <project path="bionic" name="bionic" remote="yaap" />
-  <project path="manifest" name="yaap/manifest" remote="github" revision="fourteen" />
+  <project path="manifest" name="manifest" remote="naap" revision="fourteen" />
 
   <!-- Build -->
   <project path="build/make" name="build_make" remote="naap" >
