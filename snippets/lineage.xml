@@ -21,6 +21,7 @@
 
   <!-- Hardware -->
   <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="lineage" />
+  <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="lineage" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="lineage" />
   <project path="hardware/qcom-caf/bootctrl" name="android_hardware_qcom_bootctrl" remote="lineage" revision="lineage-21.0-caf" />
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="lineage">
