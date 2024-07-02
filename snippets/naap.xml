@@ -113,7 +113,7 @@
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="yaap" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="yaap" />
   <project path="packages/apps/KProfiles" name="packages_apps_KProfiles" remote="yaap" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="naap" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="naap" revision="qpr3" />
   <project path="packages/apps/Matlog" name="packages_apps_Matlog" remote="yaap" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="yaap" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="yaap" />
